@@ -1,0 +1,43 @@
+Stylometry
+
+What do the statistics look like
+Can you predict who said that line?
+Style of character vs writer vs translator
+Translation issues -- lost in translation
+Who is the translator?
+Topically, feminism --> gender and writing / speaking style
+	- me vs us
+	- inclusive vs closed
+	- past v present tense
+	- and vs or --> logically
+		- not
+		- think modifiers
+	- how, where, when
+		- in, of, from
+		- these can be made into a broader class
+		
+Storyline -- that is the writer
+	contrast that of the writer / translator
+	then get the original norweigen version to see how much is translator
+
+Author, character, translator would all get stylistic markers
+
+Ibsen - A Doll's House
+- English vs. Norweigen
+- how many lines does nora have?
+- temporal aspect (for each of the characters)
+	- style changes over time
+	- character changes - i.e. of heart
+	- can you trace a line / style to particular inportant moments
+	- logistic regression -> any given line you can project that onto a number "The Nora Number"
+
+Datasets:
+One row per paragraph: character name and speech in separate columns
+Extract the new columns - the most common words per column
+
+Pull most common words
+Number of times a word occurs in each speech
+
+
+
+Scikit learn
