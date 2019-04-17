@@ -1,6 +1,6 @@
 # Manifest File:
 
-** Question: How does the style of character vs playwright vs translator differ and is it possible to predict who said which line in the separate languages?**
+**Question: How does the style of character vs playwright vs translator differ and is it possible to predict who said which line in the separate languages?**
 
 ## Datasets
 * Contains README.md file detailing dataset creations
