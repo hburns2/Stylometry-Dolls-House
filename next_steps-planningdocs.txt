@@ -1,0 +1,33 @@
+Look at all words and think of them as mapped into groups (i.e. verbs, prepositions) --> are they different or is there a subgroup
+Row num will be x-axis, filter just Nora
+
+Might want to normalize to plot nora and helmer next to each other
+
+Keep original line number --> way of checking nora and helmer not same line
+y-axis = probability of nora
+
+look to see if straight line
+
+precision and recall in norweigan v english
+which is more distinguishable
+using probabilities, what is the temporal things happening
+
+Towards the end, who's line is it, versus at the beginning?
+Null is that there is no temporal trend -- there should be a straight line
+fit regression
+	y = a+bx
+	y = a+bx+cx
+	
+For english version, regression line per person
+Look at confusion matrix --> see which people look like each other and which look different
+
+think about 3 questions
+can tell apart --> within language, between language (precision v recall)
+does that depend on language (for each of these questions)
+	if easy to tell apart in english not norw --> could hypothesize whether this is because of language or translator
+which characters are hard to tell apart, which are easy (confusion matrix)
+are there any temporal trends?
+
+* broaded the norw one to have a few more words
+are there certain words that ARE a character
+formal vs friendly words (think french)
