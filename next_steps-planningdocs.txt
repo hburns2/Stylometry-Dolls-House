@@ -31,3 +31,6 @@ are there any temporal trends?
 * broaded the norw one to have a few more words
 are there certain words that ARE a character
 formal vs friendly words (think french)
+
+
+find some papers that have done something similar -- stylometry, genre
