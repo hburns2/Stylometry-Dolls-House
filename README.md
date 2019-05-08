@@ -26,4 +26,4 @@
 * Visualization and analysis (both English and Danish)
 
 ## Screenshots_for_Report
-* 6 screenshots, 3 of confusion matrices and 3 of visualization outputs (.png)
+* 7 screenshots, 4 of confusion matrices and 3 of visualization outputs (.png)
